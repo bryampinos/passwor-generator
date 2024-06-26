@@ -1,0 +1,17 @@
+/* styles.css */
+body {
+    background-image: url('img/depositphotos_36512893-stock-photo-abstract-background.jpg');
+    background-size: cover; /* Para que la imagen cubra todo el fondo */
+    background-position: center; /* Centrar la imagen */
+    background-repeat: no-repeat; /* Evitar que la imagen se repita */
+    background-attachment: fixed; /* Para que la imagen permanezca fija al hacer scroll */
+}
+
+.container {
+
+    padding: 20px;
+    border-radius: 10px;
+    background-size: auto; /* Para que la imagen cubra todo el contenedor */
+    background-position: center; /* Centrar la imagen */
+    background-repeat: no-repeat; /* Evitar que la imagen se repita */
+}
